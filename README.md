@@ -13,14 +13,9 @@ I’m Turbo Pascal backend developer, building my projects using МОЧА
 *form higher to lower:*
 <div style="display:flex; flex-direction:row; justify-content:space-around; width:100%;">
 <img alt="Pascal" title="Pascal" src="https://sun9-63.userapi.com/impg/zSPyBo56k8WpVbImzEfb7Re4to4Ggvnm58Faig/Q6ZxVHUxNss.jpg?size=512x512&quality=96&sign=c51e7800a9e03ec78073d2289f1d5c1f&type=album" width="64"/>
-<img alt="Typescript" title="Typescipt" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="64" />
-<img alt="Javascript" title="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="64" />
-<img alt="Docker" title="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" width="64" />
-<img alt="DevOps" title="DevOps" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg" width="64" />
-<img alt="Git"" title="Git" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-plain.svg" width="64" />
-<img alt="React" title="React" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="64" />
-<img alt="Flutter" title="Flutter" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="64" />
-<img alt="Unity" title="Unity" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/unity/unity-original.svg" width="64" />
+<img alt="1C" title="1C" src="https://i.pinimg.com/originals/6b/21/af/6b21afdb599824a288aef53e9c89b08a.png" width="64" />
+<img alt="Javascript" title="Javascript" src="https://img2.freepng.ru/20180616/jtu/kisspng-dog-feces-puppy-yard-dog-poo-5b24bcea7b0e86.0642256115291343145041.jpg" width="64" />
+<img alt="Docker" title="Docker" src="https://www.factroom.ru/wp-content/uploads/2019/02/pochemu-musulmane-ne-mogut-sovershat-namaz-bez-kovrika.jpg" width="64" />
 </div>
 
 -----

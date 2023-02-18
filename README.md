@@ -12,7 +12,7 @@ I’m Turbo Pascal backend developer, building my projects using МОЧА
 ### 🛠 My tech stack
 *form higher to lower:*
 <div style="display:flex; flex-direction:row; justify-content:space-around; width:100%;">
-<img alt=".NET" title=".NET" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="64"/>
+<img alt="Pascal" title="Pascal" src="https://sun9-63.userapi.com/impg/zSPyBo56k8WpVbImzEfb7Re4to4Ggvnm58Faig/Q6ZxVHUxNss.jpg?size=512x512&quality=96&sign=c51e7800a9e03ec78073d2289f1d5c1f&type=album" width="64"/>
 <img alt="Typescript" title="Typescipt" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="64" />
 <img alt="Javascript" title="Javascript" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="64" />
 <img alt="Docker" title="Docker" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain-wordmark.svg" width="64" />

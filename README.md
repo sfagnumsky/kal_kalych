@@ -24,11 +24,11 @@ I’m Turbo Pascal backend developer, building my projects using МОЧА
 
 <div style="display:flex; flex-direction:row; justify-content:space-around; width:100%;">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=lenchq&theme=gruvbox&border_radius=5.2&locale=ru)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=sfagnumsky&theme=gruvbox&border_radius=5.2&locale=ru)](https://git.io/streak-stats)
 
-<!--[![Lenchq Stats](https://github-readme-stats.vercel.app/api?username=lenchq&hide=issues&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)-->
-[![lenchq's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=lenchq)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![sfagnumsky Stats](https://github-readme-stats.vercel.app/api?username=sfagnumsky&hide=issues&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)-->
+[![sfagnumsky's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sfagnumsky)](https://github.com/anuraghazra/github-readme-stats)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lenchq&layout=compact&theme=gruvbox&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sfagnumsky&layout=compact&theme=gruvbox&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
   
   </div>

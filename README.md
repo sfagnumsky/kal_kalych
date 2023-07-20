@@ -1,11 +1,13 @@
-### priv)
+### privetik=)
 
 ----
 
 I’m Turbo Pascal backend developer, building my projects using МОЧА
-- 👀 I’m interested in **My Little Pony**, **собачiй кал**, **Visual BASIC**
+- 👀 I’m interested in **My Little Pony**, **собачiй кал**, **Delphi Object Pascal**
 - 🌱 Currently learning: **КуМир**, **1С: Предприятие 8 (учебная версия)**
-- 📫 How to reach me: [e-mail](mailto:sfagnumsky@ya.ru "sfagnumsky@ya.ru")
+- 📫 How to reach me: [e-mail](mailto:gesha@bnpg.cfd "gesha@bnpg.cfd")
+- 👷 Now working as **Junior BASIC Developer** in **Koshachya Blevotina Foundation**
+- 😃 Always disponible for communication!
 
 ----
 
@@ -16,6 +18,7 @@ I’m Turbo Pascal backend developer, building my projects using МОЧА
 <img alt="1C" title="1C" src="https://i.pinimg.com/originals/6b/21/af/6b21afdb599824a288aef53e9c89b08a.png" width="64" />
 <img alt="Javascript" title="Javascript" src="https://img2.freepng.ru/20180616/jtu/kisspng-dog-feces-puppy-yard-dog-poo-5b24bcea7b0e86.0642256115291343145041.jpg" width="64" />
 <img alt="Docker" title="Docker" src="https://sun9-52.userapi.com/impg/oys4RWCg4Q0O6Nqtzcq2sW6ExSZaGdazyarmMA/yVvdpsV5qaI.jpg?size=1080x815&quality=95&sign=df69714e784297a41cc642c6ed58fb20&c_uniq_tag=AnzXK_wqPR5cdzHaZbm5D3bbhDMsLi-zsF31NsK5mz8&type=album" width="64" />
+<img alt="BASIC" title="Javascript" src="https://i.ytimg.com/vi/fxLHWutkPuc/hqdefault.jpg" width="64" />
 </div>
 
 ----
